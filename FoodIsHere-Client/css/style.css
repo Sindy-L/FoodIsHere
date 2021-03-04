@@ -1,0 +1,7 @@
+.error-form{
+	color: red;
+}
+
+input[type=submit] {
+	float : right;
+}
